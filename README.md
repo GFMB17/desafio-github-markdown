@@ -28,5 +28,5 @@ Agora eu vou adicionar 2 colaboradores a esse desafio.
 ![jogo da velha](file:///C:/Users/Gabriel%20Barros/Desktop/dio%20me/GitHub/Desafio-GitHub-Markdown/desafio-github-markdown/index.html) para jogar o joda velha!
 
 <a href="file:///C:/Users/Gabriel%20Barros/Desktop/dio%20me/GitHub/Desafio-GitHub-Markdown/desafio-github-markdown/index.html">
-  <img src="https://github.com/user-attachments/assets/4885cacb-db1d-467b-8920-46f4de7556dd" width="300">
+  <img src="https://github.com/user-attachments/assets/4885cacb-db1d-467b-8920-46f4de7556dd" width="250">
 </a>
